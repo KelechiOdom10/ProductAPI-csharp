@@ -57,3 +57,4 @@ C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\
 C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ref\ProducttAPI.dll
 C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.pdb
 C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.genruntimeconfig.cache
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.csproj.AssemblyReference.cache
