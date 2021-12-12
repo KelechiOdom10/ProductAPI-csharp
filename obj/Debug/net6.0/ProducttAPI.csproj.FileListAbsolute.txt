@@ -28,3 +28,32 @@
 /Users/kelechiodom/Development/playground/ProducttAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /Users/kelechiodom/Development/playground/ProducttAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/kelechiodom/Development/playground/ProducttAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\appsettings.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ProducttAPI.exe
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ProducttAPI.deps.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ProducttAPI.runtimeconfig.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ProducttAPI.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ref\ProducttAPI.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\ProducttAPI.pdb
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.AssemblyInfoInputs.cache
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.AssemblyInfo.cs
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\scopedcss\bundle\ProducttAPI.styles.css
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.csproj.CopyComplete
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ref\ProducttAPI.dll
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.pdb
+C:\Users\Kelechi Odom\dev\sandbox\ProductAPI\ProductAPI-csharp\obj\Debug\net6.0\ProducttAPI.genruntimeconfig.cache

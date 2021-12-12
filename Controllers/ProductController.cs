@@ -26,7 +26,7 @@ namespace ProducttAPI.Controllers
             return Ok(products);
         }
 
-        [HttpGet("{id")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<Product>> GetProductById(int id)
         {
             var product = await _context.Products.FindAsync(id);

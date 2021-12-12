@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kelechiodom/Development/playground/ProducttAPI/ProducttAPI.csproj": {}
+    "C:\\Users\\Kelechi Odom\\dev\\sandbox\\ProductAPI\\ProductAPI-csharp\\ProducttAPI.csproj": {}
   },
   "projects": {
-    "/Users/kelechiodom/Development/playground/ProducttAPI/ProducttAPI.csproj": {
+    "C:\\Users\\Kelechi Odom\\dev\\sandbox\\ProductAPI\\ProductAPI-csharp\\ProducttAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kelechiodom/Development/playground/ProducttAPI/ProducttAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Kelechi Odom\\dev\\sandbox\\ProductAPI\\ProductAPI-csharp\\ProducttAPI.csproj",
         "projectName": "ProducttAPI",
-        "projectPath": "/Users/kelechiodom/Development/playground/ProducttAPI/ProducttAPI.csproj",
-        "packagesPath": "/Users/kelechiodom/.nuget/packages/",
-        "outputPath": "/Users/kelechiodom/Development/playground/ProducttAPI/obj/",
+        "projectPath": "C:\\Users\\Kelechi Odom\\dev\\sandbox\\ProductAPI\\ProductAPI-csharp\\ProducttAPI.csproj",
+        "packagesPath": "C:\\Users\\Kelechi Odom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelechi Odom\\dev\\sandbox\\ProductAPI\\ProductAPI-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kelechiodom/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Kelechi Odom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

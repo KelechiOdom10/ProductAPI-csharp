@@ -7,6 +7,7 @@ namespace ProducttAPI.Data
     {
         public ShopContext(DbContextOptions<ShopContext> options) : base(options)
         {
+            Database.EnsureCreated();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

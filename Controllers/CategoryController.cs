@@ -7,7 +7,7 @@ using ProducttAPI.Models;
 
 namespace ProducttAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/categories")]
     public class CategoryController : Controller
     {
         private readonly ShopContext _context;
