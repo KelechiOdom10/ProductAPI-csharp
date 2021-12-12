@@ -1,10 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProducttAPI.Data;
+using ProducttAPI.Interfaces;
+using ProducttAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();   
 builder.Services.AddControllers();
 builder.Services.AddDbContext<ShopContext>(options =>
 {
