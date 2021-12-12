@@ -52,7 +52,6 @@ namespace ProducttAPI.Repositories
             }
             int rows = await _context.SaveChangesAsync();
 
-            Console.WriteLine(rows);
             return (rows > 0);
 
         }
